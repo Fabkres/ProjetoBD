@@ -1,5 +1,7 @@
-Projeto BD parte A: 
+REST API
 
+
+Projeto BD parte A: 
 Na API WEB deverá ser criado um objeto com a seguinte estrutura:
 Usuário
 cpf : inteiro
